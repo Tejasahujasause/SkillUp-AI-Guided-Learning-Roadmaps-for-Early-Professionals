@@ -1,2 +1,2 @@
 # SkillUp-AI-Guided-Learning-Roadmaps-for-Early-Professionals
-A 0→1 AI-powered product MVP that helps early-career professionals decide what to learn next through personalized skill roadmaps, micro-learning, portfolio projects, and progress tracking to reduce decision paralysis and improve course completion.
+A 0→1 AI-powered learning discovery MVP that addresses decision paralysis in early-career professionals by translating career goals into personalized skill roadmaps, bite-sized learning modules, and industry-aligned portfolio projects, supported by progress tracking and behavioral nudges to improve activation, retention, and course completion.
